@@ -11,7 +11,7 @@ android {
         applicationId = "com.redtrigger"
         minSdk = 29
         targetSdk = 35
-        versionCode = 46
+        versionCode = 47
         versionName = "3.0.12"
 
         vectorDrawables {
